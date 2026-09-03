@@ -3,6 +3,6 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions==1.21.3
-azure-identity==1.17.1
+azure-identity==1.25.3
 azure-monitor-ingestion==1.0.4
-cryptography==46.0.7
+cryptography==50.0.0
